@@ -11,3 +11,6 @@ mesmas descritas no item 1).
 mensagens.
     - __Mostre como foi implementado o sincronismo e como isso foi comprovado.__
 3) Discuta as diferenças verificadas para implementar o sincronismo entre os processos.
+
+## Link do replit
+https://replit.com/@ricleta/Tarefa-4#Rascunho/ex1.c

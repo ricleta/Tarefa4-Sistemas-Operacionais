@@ -14,3 +14,6 @@ mensagens.
 
 ## Link do replit
 https://replit.com/@ricleta/Tarefa-4#Rascunho/ex1.c
+
+## Link do relatório
+https://woozy-zephyr-e94.notion.site/Tarefa-4-Sem-foros-e-mensagens-c41aa79bf9ac4d4ca9d649a4f6358190
